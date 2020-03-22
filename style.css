@@ -1,0 +1,79 @@
+.myMargin
+{
+ margin:20px;
+ 
+}
+.header
+{
+    background-color: rgb(235, 38, 104);
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+    
+    width:100%;
+    
+  
+}
+.mymargin2
+{
+    margin: 3px;
+}
+.firstBorder
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.button{
+  
+  margin:4px 2px;
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:active
+{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.img
+{
+    width:80px;
+    height:60px;
+    padding-left: 20px;
+}
+.calc
+{
+    float: right;
+   text-align: start;
+}
+.footer
+{
+    text-align: center;
+    background-color: lawngreen;
+   
+    margin-left: -220px;
+    margin-right: -197px; 
+}
+.labelColor1
+{
+  background-color: rgb(156, 206, 223);
+}
+.labelColor2
+{
+    background-color: lightpink;
+}
+.labelColor3
+{
+    background-color: rgb(136, 240, 136);
+}
